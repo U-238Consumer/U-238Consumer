@@ -16,4 +16,3 @@ Previous account, [U-235Consumer](https://www.github.com/U-235Consumer), as well
 ## Connect with me
 
 ![Discord](https://img.shields.io/badge/Discord-u235consumer-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-u235consumer-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
