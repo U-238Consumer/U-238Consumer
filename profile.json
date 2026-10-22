@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "login": "U-238Consumer",
+  "seed": "#B36CFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "projects"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Jasper",
+    "subtitle": "Self-taught programmer",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Georgia"
+      },
+      {
+        "icon": "code",
+        "label": "Luau"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "attach_money",
+        "label": "Broke"
+      },
+      {
+        "icon": "check",
+        "label": "Unmotivated"
+      },
+      {
+        "icon": "brand:luau",
+        "label": "Luau is goated"
+      },
+      {
+        "icon": "link",
+        "label": "sealhaxx.site"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:luau",
+            "label": "Luau"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:dotnet",
+            "label": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Other",
+        "items": [
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node JS"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "pixel-garden",
+      "tiny-weather",
+      "echo-bot",
+      "dotfiles"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/797539540667596800"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "Seal Softworks Website",
+        "url": "https://sealhaxx.site",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "Seal Softworks",
+        "url": "https://github.com/Seal-Softworks-2",
+        "style": "tonal"
+      }
+    ]
+  }
+}
